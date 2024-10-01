@@ -1,5 +1,4 @@
 # Sign-Up Page:
-
 Created a Sign-Up page using html and css with glassomorphic effect.
 
 To see the effect set the width of page less than 830px.
@@ -7,9 +6,6 @@ To see the effect set the width of page less than 830px.
 * User Friendly.
 * Unique design.
 * better UI/UX experience.
-
-
-
 
 ## Lessons Learned
 

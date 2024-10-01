@@ -1,5 +1,3 @@
-hhhlhlhlhlhljh
-
 # Sign-Up Page:
 Created a Sign-Up page using html and css with glassomorphic effect.
 
